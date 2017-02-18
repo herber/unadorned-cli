@@ -1,0 +1,30 @@
+{
+  "name": "unadorned-cli",
+  "repository": {
+    "url": "https://github.com/tobihrbr/unadorned-cli.git",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "description": "A cli for unadorned",
+  "bin": {
+    "unadorned": "./bin/cli.js"
+  },
+  "keywords": [
+    "css",
+    "less",
+    "sass",
+    "cli",
+    "ejs",
+    "jade",
+    "pug",
+    "md",
+    "markdown",
+    "pre",
+    "preprocessor"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "dependencies": {
+    "unadorned": "^0.1.6"
+  }
+}
